@@ -1,0 +1,2 @@
+# tvmazeapi
+TV Maze API
